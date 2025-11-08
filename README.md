@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vasif Ali!
+# 👋 Hi, I'm Vasif Ali
 
 🎓 I'm a B.Tech student in Computer Science at Lovely Professional University.  
 💻 I’m passionate about **software development**, **AI**, and **cybersecurity**.  
