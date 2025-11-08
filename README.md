@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](aliw22933@gmail.com )
 - 💼 LinkedIn: [linkedin.com/in/vasif-ali](https://linkedin.com/in/vasif-ali)
 - 🐦 Twitter: [twitter.com/vasifali](https://twitter.com/vasifali)
 
