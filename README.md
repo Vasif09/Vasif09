@@ -74,9 +74,14 @@ I’m passionate about creating intelligent, secure, and scalable applications t
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhMTRweGJ3M3ZmdGMwbXVoMWI1N2lkZm5lY25udjI0ZnVxZWlndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35px"> **Programming Skills**
 
+## 🎯 Practice & Problems
+
 <div align="center">
-  <img src="https://leetcode.com/u/vasif_ali09/?theme=nord&font=baloo" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/vasif_ali09/">
+    <img src="https://leetcard.jacoblin.cool/vasif_ali09?theme=nord&font=baloo" alt="LeetCode Stats" />
+  </a>
 </div>
+
 
 ---
 
